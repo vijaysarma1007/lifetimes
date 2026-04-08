@@ -1,3 +1,10 @@
 fn main() {
-    println!("Hello, world!");
+     let a = 1;
+
+      {
+        let b =2 ;
+      }
+
+      let c  = String::from ("winter");
+      let d= c; 
 }
