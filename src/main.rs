@@ -1,10 +1,10 @@
 fn main() {
-     let a = 1;
+    let a = 1;
 
-      {
-        let b =2 ;
-      }
+    {
+        let b = 2;
+    }
 
-      let c  = String::from ("winter");
-      let d= c; 
+    let c = String::from("winter");
+    let d = c;
 }
